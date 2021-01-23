@@ -1,7 +1,7 @@
 function add(a,b){
     return a+b
 }
-
+//oelo
 function subtract(a,b){
     return a-b
 }
